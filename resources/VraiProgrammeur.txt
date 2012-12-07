@@ -1,0 +1,41 @@
+1. Les vrais programmeurs ne mangent pas de quiche, ils préfèrent les Mars, le coca, et les trucs qui arrachent le palais.
+
+2. Les vrais programmeurs n'écrivent pas de docs. Les utilisateurs doivent être contents de ce qu'ils obtiennent. Ils ont déjà la chance d'avoir un programme !
+
+3. Les vrais programmeurs ne commentent pas leur code. Ça a été dur à écrire, ça doit être dur à comprendre, et encore plus à modifier.
+
+4. Les vrais programmeurs ne documentent jamais leurs programmes. C'est bon pour ceux qui ne peuvent pas lire les listings, codes objets et dumps hexa.
+
+5. Les vrais programmeurs ne lisent pas de manuels. La consultation d'une référence repère immédiatement le novice.
+
+6. Les vrais programmeurs ne programment pas en COBOL. Le COBOL est bon pour ceux qui mâchent du chewing-gum en maintenant d'anciens programmes de gestion.
+
+7. Les vrais programmeurs ne programment pas en FORTRAN. C'est bon pour les cadres dynamiques en chaussettes blanches.
+
+8. Les vrais programmeurs ne programment pas en PL/1. C'est bon pour ceux qui ne peuvent se décider entre le COBOL et le FORTRAN.
+
+9. Les vrais programmeurs ne programment pas en BASIC. En fait, aucun programmeur n'utilise le BASIC après la puberté.
+
+10. Les vrais programmeurs ne programment pas en APL, à moins que le programme entier ne tienne sur une seule ligne.
+
+11. Les vrais programmeurs n'écrivent ni en Pascal, ni en C, ADA ou autre langage du même genre. Les contraintes et le proto-typage, c'est bon pour ceux qui ont des problèmes de mémoire.
+
+12. Les vrais programmeurs ne travaillent jamais de 9h à 18h. Si un vrai programmeur est debout à 9h, c'est qu'il a passé une nuit blanche.
+
+13. Les vrais programmeurs dédaignent la programmation structurée. C'est bon pour les névrotiques qui portent faux-cols et cravate, et qui alignent consciencieusement leurs stylos sur un bureau nickel.
+
+14. Les vrais programmeurs n'aiment pas travailler en équipe, à moins qu'ils n'en soient le chef.
+
+15. Les vrais programmeurs haïssent les nombres flottants. Le point décimal a été inventé par des gens incapables de "penser en grand".
+
+16. Les vrais programmeurs ne jouent pas au tennis, ou à tout autre sport qui nécessite un changement de vêtements. Par contre, l'escalade est bien acceptée. Les vrais programmeurs ont toujours des chaussures de marche pour le cas où une montagne surgirait au milieu de la salle machine.
+
+17. Les vrais programmeurs ne roulent pas en Renault 21 (sauf turbo). Ils préfèrent les Porsche et BMW. Les grosses motos sont aussi hautement considérées.
+
+18. Les vrais programmeurs ne croient pas aux échéanciers. Les gestionnaires font ces échéanciers. Les managers les mettent en application. Les codeurs apeurés essayent de les respecter. Les vrais programmeurs les ignorent.
+
+19. Les vrais programmeurs aiment les popcorns. Les codeurs les font dans une poêle. Les vrais programmeurs utilisent la chaleur dégagée par le CPU de leur ordinateur. Ils peuvent deviner la tâche qui est en train de s'exécuter d'après la fréquence d'élatement des popcorns.
+
+20. Les vrais programmeurs connaissent chaque nuance de chaque instruction assembleur, et utilisent toutes ces nuances dans un Vrai Programme. Les chefs de projet n'aiment pas le code qui s'auto-modifie. Les vrais programmeurs n'ont que faire de ces directives.
+
+21. Les vrais programmeurs n'apportent jamais à manger au bureau. S'il y a un distributeur de sandwichs, ils mangent des sandwichs. Sinon, ils ne mangent pas. Les vrais programmeurs ne mangent pas de quiche !
