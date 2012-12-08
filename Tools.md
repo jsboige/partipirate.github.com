@@ -9,7 +9,7 @@ Outils en ligne
 Les outils officiels de que la communauté utilise pour débattre, prendre des décisions et travailler sont :
 
 * La liste ux hébergée par l'ektek du PPFR
-* la communauté github PartiPirate et en particulier les repositories de l'équipe PPUX
+* l'organisation github "PartiPirate" et en particulier les repositories de la communauté PUX
 
 D'autres outils ou peuvent être utilisés mais les propos des membres de PUX portés sur ces canaux n'engagent qu'eux-même.
 
