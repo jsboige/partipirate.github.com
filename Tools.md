@@ -16,7 +16,7 @@ D'autres outils ou peuvent être utilisés mais les propos des membres de PUX po
 La communication externe et officielle de PUX se fait exclusivement à travers le présent site.
 
 *Notice* : Il arrive parfois que des propos tenus sur la liste blessent ou heurtent
-d'autres participants, il est bon à se momment de se rappeler que nous disposons d'outils
+d'autres participants, il est bon à ce momment de se rappeler que nous disposons d'outils
 tels que la communication non violente pour limiter la casse au sein de la communauté.
 
     les 4 phases de la cnv
@@ -37,4 +37,4 @@ tels que la communication non violente pour limiter la casse au sein de la commu
 Outils de développement
 -----------------------
 
-
+à venir...
