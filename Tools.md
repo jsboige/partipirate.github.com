@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Les outils de PPUX
+title: Les outils de PUX
 ---
 
 Outils en ligne
