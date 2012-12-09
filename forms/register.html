@@ -1,0 +1,49 @@
+---
+layout: default
+title: Rejoindre la communauté PUX
+---
+<!--
+ parametres du formulaire
+ 
+digest    0
+email	pirate@menestrel.net
+email-button	Abonner
+fullname	
+pw	
+pw-conf
+-->
+<div class="span12">
+  <div class="hero-unit">
+    <h1>Rejoindre PUX</h1>
+    <p>Replissez ce formulaire ci-dessous pour participer aux discussions de la commaunauté PUX</p>
+    <form method="POST" action="https://lists.partipirate.org/mailman/subscribe/ux">
+        <input type="hidden" name="pw"/>
+        <input type="hidden" name="pw-conf"/>
+        <div class="control-group">
+            <label class="control-label" for="email">Votre adresse courriel :</label>
+            <div class="controls">
+                <input type="text" name="email">
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="fullname">Votre Nom (optionnel)</label>
+            <div class="controls">
+                <input type="text" name="fullname">
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="digest">Recevoir un résumé quotidien</label>
+            <div class="controls">
+                <input type="radio" checked="" value="0" name="digest"> Oui
+            </div>
+            <div class="controls">
+                <input type="radio" value="1" name="digest"> Non
+            </div>
+        </div>
+        <div class="control-group">
+            <div class="controls">
+                <input type="submit" name="email-button"/>
+            </div>
+        </div>
+    </div>
+</form>
