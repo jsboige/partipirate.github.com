@@ -35,6 +35,6 @@ Intégrer l'inscription ml à l'expérience du site
 
 ressources :
 
-* formulaire pour le site ( [Voir l'exemple PUX](/forms/register) ) [ [source](https://github.com/PartiPirate/partipirate.github.com/blob/master/forms/register.html) ]
+* formulaire pour le site ( [Voir l'exemple PPUX](/forms/register) ) [ [source](https://github.com/PartiPirate/partipirate.github.com/blob/master/forms/register.html) ]
 
 à suivre...
