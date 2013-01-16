@@ -1,0 +1,10 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1357494339098" ID="ID_483665145" MODIFIED="1357503358647" TEXT="Economie">
+<node CREATED="1357503388171" ID="ID_984636474" MODIFIED="1357503391874" POSITION="right" TEXT="Libert&#xe9;"/>
+<node CREATED="1357503398433" ID="ID_857980996" MODIFIED="1357503403048" POSITION="left" TEXT="Confidentialit&#xe9;"/>
+<node CREATED="1357503408399" ID="ID_1589367266" MODIFIED="1357503412374" POSITION="right" TEXT="Transparence"/>
+<node CREATED="1357503417464" ID="ID_847826175" MODIFIED="1357503424360" POSITION="left" TEXT="Collaboration"/>
+<node CREATED="1357503440616" ID="ID_605279127" MODIFIED="1357503444704" POSITION="right" TEXT="Partage"/>
+</node>
+</map>
